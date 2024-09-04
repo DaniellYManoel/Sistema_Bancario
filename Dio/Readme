@@ -1,1 +1,16 @@
+#### Projeto feito na Dio com Parceria com Santader
 
+Nessa pasta está os desafios realizado no Bootcamp da DIO! Indo do mais básico ao avançado.
+
+### Um pouco do projeto
+
+É um sistema bancario com um menu que contem:
+. Depositar
+. Sacar
+. Extrato
+. Nova conta
+. Listar contas
+. Novo usuário
+. Sair
+
+O sistema não guadar as informações depois que é encerrado ( e minha próxima atualização).
